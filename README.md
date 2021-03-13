@@ -1,3 +1,3 @@
-# PCSHS-PT23_M5_MiniProject_BMICalculator
+# PCSHS-PT23_M4_MiniProject_BMICalculator
 M5_MiniProject_by_Python
 
